@@ -48,6 +48,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 -->
 <br/>
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="prasanta-mohapatra"><a class="LI-simple-link" href='https://in.linkedin.com/in/prasanta-mohapatra?trk=profile-badge'>Prasanta kumar Mohapatra</a></div>
 
 <br/>
