@@ -47,11 +47,6 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <strong> ___ 🖋 Write into my guest book</strong></a>
 -->
 <br/>
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="prasanta-mohapatra"><a class="LI-simple-link" href='https://in.linkedin.com/in/prasanta-mohapatra?trk=profile-badge'>Prasanta kumar Mohapatra</a></div>
-
-<br/>
 <br/>
 
 [![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/prasanta-mohapatra/prasanta-mohapatra/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
