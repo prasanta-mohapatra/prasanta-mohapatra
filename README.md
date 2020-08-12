@@ -22,7 +22,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/prasanta-mohapatra?style=social)](https://www.github.com/prasanta-mohapatra)
-[![Linkedin Badge](https://img.shields.io/badge/-prasanta-mohapatra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasanta-mohapatra/)](https://www.linkedin.com/in/prasanta-mohapatra/)
+[![Linkedin Badge](https://img.shields.io/badge/-paacifik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasanta-mohapatra/)](https://www.linkedin.com/in/prasanta-mohapatra/)
 [![Instagram Badge](https://img.shields.io/badge/-strange_._r-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/strange_._r/)](https://www.instagram.com/strange_._r/)
 [![Facebook Badge](https://img.shields.io/badge/-paacifik-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/paacifik)](https://www.facebook.com/paacifik)
 [![Telegram Badge](https://img.shields.io/badge/-Paacifik-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@paacifik)](https://telegram.org/@Paacifik)
