@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Prasanta Kumar Mohapatra](https://github.com/prasanta-mohapatra/prasanta-mohapatra/blob/master/CO.png?raw=true)
 
+![Prasanta Kumar Mohapatra](https://github.com/prasanta-mohapatra/prasanta-mohapatra/blob/master/CO.png?raw=true)
 
 I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good. Let's have future better.
 
 <br/>
+<div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/prasanta-mohapatra?style=social)](https://www.github.com/prasanta-mohapatra)
 [![Linkedin Badge](https://img.shields.io/badge/-paacifik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasanta-mohapatra/)](https://www.linkedin.com/in/prasanta-mohapatra/)
@@ -27,10 +28,11 @@ I'm fun to work with, I always like to learn new things from others as much as h
 [![Facebook Badge](https://img.shields.io/badge/-paacifik-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/paacifik)](https://www.facebook.com/paacifik)
 [![Telegram Badge](https://img.shields.io/badge/-Paacifik-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@paacifik)](https://telegram.org/@Paacifik)
 
+</div>
 <!--
 # Fun Facts
- ![Stats](https://github.com/prasanta-mohapatra/prasanta-mohapatra/blob/master/stats.png?raw=true) 
-![Stats](https://github.com/prasanta-mohapatra/prasanta-mohapatra/blob/master/stats-w.png?raw=true)  
+ ![Stats](https://github.com/prasanta-mohapatra/prasanta-mohapatra/blob/master/stats.png?raw=true)
+![Stats](https://github.com/prasanta-mohapatra/prasanta-mohapatra/blob/master/stats-w.png?raw=true)
 -->
 
 <br/>
@@ -39,14 +41,12 @@ I'm fun to work with, I always like to learn new things from others as much as h
 > Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
 > -- Steve Jobs
 
-
 <div align="right">
 <!-- 
 [![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/prasanta-mohapatra/prasanta-mohapatra/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook) 
 <a   href="https://github.com/prasanta-mohapatra/prasanta-mohapatra/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
 <strong> ___ 🖋 Write into my guest book</strong></a>
 -->
-<br/>
 <br/>
 
 [![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/prasanta-mohapatra/prasanta-mohapatra/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
